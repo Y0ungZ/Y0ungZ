@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Y0ungZ's github stats](https://github-readme-stats.vercel.app/api?username=Y0ungZ&show_icons=true)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=at8in)](https://solved.ac/at8in)
